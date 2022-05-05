@@ -1,0 +1,6 @@
+{
+	"appId": "dev.maximelemoine",
+	"appName": "photo-gallery",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

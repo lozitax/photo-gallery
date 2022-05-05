@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'dev.maximelemoine',
   appName: 'photo-gallery',
   webDir: 'dist',
   bundledWebRuntime: false
